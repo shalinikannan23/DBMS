@@ -132,4 +132,4 @@ DROP SEQUENCE S2;
 
 
 ## RESULT :
-### Thus the sequence and synonym created and used in SQL.
+ Thus the sequence and synonym created and used in SQL.
